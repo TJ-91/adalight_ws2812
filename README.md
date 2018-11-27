@@ -4,8 +4,8 @@ Adalight WS2812
 This is a fork of Wifsimster/adalight_ws2812 and adds smooth color transitions.
 
 The following libraries are used:
-FastLED https://github.com/FastLED/FastLED
-CircularBuffer https://github.com/rlogiacco/CircularBuffer
+* FastLED https://github.com/FastLED/FastLED
+* CircularBuffer https://github.com/rlogiacco/CircularBuffer
 
 
 Notes
